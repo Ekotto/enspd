@@ -20,6 +20,7 @@
         ?>
         <form action="func.php" method="POST">
             <label>Name</label>
+            <label>MIKE</label>
             <input type="hidden" name="id" value="<?php echo $info->id?>">
             <input type="text" name="nom" value="<?php echo $info->$nom?>"><br>
             <label>Prenom</label>
