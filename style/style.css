@@ -1,0 +1,38 @@
+body {
+    background-color: #ddeeff;
+    font-family: "Trebuchet MS", Verdana, Geneva, Tahoma, sans-serif;
+    height: auto;
+}
+
+.page {
+    background-color: #fff;
+    width: 700px;
+    text-align: justify;
+    border-radius: 10px;
+    /* float: right; */
+    border: 1px solid black;
+    padding: 3em;
+    margin: auto;
+}
+
+h1 {
+    text-align: right;
+    /* text-transform: uppercase; */
+    background-color: #069;
+    color: #fff;
+    border-radius: 10px;
+    border: 1px solid #005258;
+    margin: 5px;
+    padding: 1em;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+.flamme {
+    text-transform: uppercase;
+    background-color: blue;
+}
+
+h3 {
+    background: red;
+}
